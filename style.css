@@ -342,7 +342,7 @@ background: linear-gradient(0deg, rgba(255,255,255,0.9915191906840861) 13%, rgba
 	left: 14px;
 	position: relative;
 	width: 250px;
-	height: 200px;
+	height: 180px;
 }
 .produtos-single:hover{
 	background: linear-gradient(0deg, rgba(255,255,255,0.9915191906840861) 13%, rgba(222,0,0,1) 62%);
@@ -644,7 +644,7 @@ footer p{
 	font-family: 'PT Sans', sans-serif;
 	z-index: 11;
 	width: 100%;
-	height: 2130px;
+	height: 3380px;
 	background-color: rgba(0,0,0,0.8);
 }
 
@@ -655,7 +655,7 @@ footer p{
 	left: 0;font-family: 'PT Sans', sans-serif;
 	z-index: 11;
 	width: 100%;
-	height: 2130px;
+	height: 3380px;
 	background-color: rgba(0,0,0,0.8);
 }
 .bgL3{
@@ -666,7 +666,7 @@ footer p{
 	font-family: 'PT Sans', sans-serif;
 	z-index: 11;
 	width: 100%;
-	height: 2130px;
+	height: 3380px;
 	background-color: rgba(0,0,0,0.8);
 }
 .produtosadd{
@@ -1169,7 +1169,17 @@ section.veiculos-descricao{
 	font-family: 'PT Sans', sans-serif;
 	z-index: 11;
 	width: 100%;
-	height: 2130px;
+	height: 5880px;
+	background-color: rgba(0,0,0,0.8);
+}
+.bgL2{
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;font-family: 'PT Sans', sans-serif;
+	z-index: 11;
+	width: 100%;
+	height: 5880px;
 	background-color: rgba(0,0,0,0.8);
 }
 
